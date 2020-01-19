@@ -21,3 +21,5 @@ The below instructions are to run the game using the Eclipse IDE however they ar
 7. Enjoy!
 
 Please do not hesitate to contact me if you have any issues or further queries.
+
+![alt text](Gameplay.png "Game play")
